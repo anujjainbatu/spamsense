@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+ml-model-training/sms-spam-classifier.ipynb
+ml-model-training/spam.csv
+models/model.pkl
+models/vectorizer.pkl
+.DS_Store
