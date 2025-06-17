@@ -1,10 +1,12 @@
 # SpamSense
 
-SpamSense is a web application for detecting spam messages using machine learning. It leverages Streamlit for the user interface and scikit-learn for building and serving the spam classifier.
+SpamSense is an AI-powered tool that predicts whether your marketing emails will land in the inbox or spam folder. Built for agencies to optimize campaign deliverability before sending.  
+It leverages Streamlit for the user interface and scikit-learn for building and serving the spam classifier.
 
 ## Features
 
-- Classifies SMS messages as spam or not spam
+- Predicts if marketing emails will be classified as spam or delivered to the inbox
+- Optimized for agencies and campaign managers
 - Simple web interface built with Streamlit
 - Pre-trained machine learning model
 
@@ -62,5 +64,3 @@ SpamSense is a web application for detecting spam messages using machine learnin
 ## License
 
 MIT License
-
----
