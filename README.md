@@ -8,6 +8,10 @@ SpamSense is a web application for detecting spam messages using machine learnin
 - Simple web interface built with Streamlit
 - Pre-trained machine learning model
 
+## Working Project
+
+![Demo](assets/demo.gif)
+
 ## Project Structure
 
 ```
